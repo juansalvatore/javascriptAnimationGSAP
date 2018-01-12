@@ -6,7 +6,7 @@
 
 - [x] Simple Animations
 
-* [ ] Complex Timeline Animations
+* [x] Complex Timeline Animations
 
 - [ ] Drag and drop items
 
