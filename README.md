@@ -2,7 +2,7 @@
 
 ### Progress
 
-* [ ] Import GSAP
+* [x] Import GSAP
 
 - [ ] Simple Animations
 
