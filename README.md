@@ -4,7 +4,7 @@
 
 * [x] Import GSAP
 
-- [ ] Simple Animations
+- [x] Simple Animations
 
 * [ ] Complex Timeline Animations
 
